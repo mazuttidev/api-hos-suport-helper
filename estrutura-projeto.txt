@@ -1,9 +1,0 @@
-src/
-├── controllers/       # Lógica de controle para cada endpoint
-├── routes/            # Definição das rotas
-├── services/          # Regras de negócio e integração com o Trello
-├── models/            # Modelos de dados e validações
-├── config/            # Configurações (ex.: Trello API keys)
-├── middlewares/       # Middlewares (ex.: autenticação, validação)
-├── utils/             # Funções auxiliares
-├── index.ts           # Arquivo principal
