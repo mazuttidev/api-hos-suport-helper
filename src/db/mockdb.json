@@ -1,0 +1,10 @@
+[
+    {
+        "id": 1,
+        "email": "victor.admin@hos.com.br",
+        "name": "Victor Suporte",
+        "username": "victor.mazutti",
+        "password": "12345",
+        "role": "admin"
+    }
+]
